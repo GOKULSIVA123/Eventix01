@@ -1,0 +1,17 @@
+{
+  "unstop": {
+    "base_url": "https://unstop.com/hackathons",
+    "include_paths": ["/hackathons", "/competitions"],
+    "wait_for": 2000
+  },
+  "devfolio": {
+    "base_url": "https://devfolio.co/hackathons",
+    "include_paths": ["devfolio.co"],
+    "wait_for": 2000
+  },
+  "knowafest": {
+    "base_url": "https://www.knowafest.com/college-fests/upcomingfests",
+    "include_paths": ["/explore/events/"],
+    "wait_for": 0
+  }
+}
